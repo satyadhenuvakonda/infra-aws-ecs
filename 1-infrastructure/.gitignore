@@ -4,4 +4,4 @@ terraform*
 infrastructure*
 production*
 tips
-.terraform*
+*.terraform*
