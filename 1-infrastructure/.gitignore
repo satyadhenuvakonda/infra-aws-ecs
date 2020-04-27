@@ -1,4 +1,5 @@
 k8s-key
 k8s-key.pub
 terraform*
-infrastructure-prod.config
+infrastructure*
+tips
