@@ -3,4 +3,5 @@ k8s-key.pub
 terraform*
 infrastructure*
 production.tfvars*
+/root/mywork/infra-aws-ecs/1-infrastructure/production.tfvars
 tips
