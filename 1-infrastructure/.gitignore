@@ -1,7 +1,6 @@
-k8s-key
-k8s-key.pub
-terraform*
-infrastructure*
-production.tfvars*
-/root/mywork/infra-aws-ecs/1-infrastructure/production.tfvars
-tips
+/root/mywork/infra-aws-ecs/1-infrastructure/k8s-key
+/root/mywork/infra-aws-ecs/1-infrastructure/k8s-key.pub
+/root/mywork/infra-aws-ecs/1-infrastructure/terraform*
+/root/mywork/infra-aws-ecs/1-infrastructure/infrastructure*
+/root/mywork/infra-aws-ecs/1-infrastructure/production*
+/root/mywork/infra-aws-ecs/1-infrastructure/tips
