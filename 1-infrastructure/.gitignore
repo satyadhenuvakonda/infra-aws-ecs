@@ -2,5 +2,5 @@ k8s-key
 k8s-key.pub
 terraform*
 infrastructure*
-production*
+production.tfvars
 tips
